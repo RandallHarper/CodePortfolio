@@ -4,22 +4,22 @@ Senior Capstone:
 www.github.com/RandallHarper/SeniorCapstone
 
 Scientific Computing:
-www.githum.com/RandallHarper/ScientificComputing
+www.github.com/RandallHarper/ScientificComputing
 
 Concepts of Database Systems:
-www.githum.com/RandallHarper/ConceptsOfDatabaseSystems
+www.github.com/RandallHarper/ConceptsOfDatabaseSystems
 
 Operating Systems:
-www.githum.com/RandallHarper/OperatingSystems
+www.github.com/RandallHarper/OperatingSystems
 
 Parallel and Concurrent Programming:
-www.githum.com/RandallHarper/ParallelAndConcurrentProgramming
+www.github.com/RandallHarper/ParallelAndConcurrentProgramming
 
 Intro to Computer Graphics
-www.githum.com/RandallHarper/IntroToComputerGraphics
+www.github.com/RandallHarper/IntroToComputerGraphics
 
 Concepts of Programming Languages:
-www.githum.com/RandallHarper/ConceptsOfProgrammingLanguages
+www.github.com/RandallHarper/ConceptsOfProgrammingLanguages
 
 Computer Architecture:
-www.githum.com/RandallHarper/ComputerArchitecture
+www.github.com/RandallHarper/ComputerArchitecture
