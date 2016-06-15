@@ -13,3 +13,5 @@ Intro to Computer Graphics
 www.githum.com/RandallHarper/
 Concepts of Programming Languages:
 www.githum.com/RandallHarper/
+Computer Architecture:
+www.githum.com/RandallHarper/
